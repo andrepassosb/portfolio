@@ -18,7 +18,7 @@ export default function Cabecalho() {
   return (
     <Container id="cabecalho">
       <Text variant="subTitle" tag="h3">BEM-VINDO AO</Text>
-      <Text variant="title" tag="h1">MEU PORTIFOLIO</Text>
+      <Text variant="title" tag="h1">MEU PORTFÓLIO</Text>
       <MoveTo element="capa" />
     </Container>
   );

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Logo } from '../../../theme/Logo';
+
 import Text from '../../foundation/Text';
 import { Button } from '../Button';
 import MenuWrapper from './styles/MenuWrapper';
@@ -11,7 +11,7 @@ const links = [
   },
   {
     texto: 'Repositorios',
-    url: '/faq',
+    url: '/repositorios',
   },
   {
     texto: 'Sobre',
